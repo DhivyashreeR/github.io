@@ -28,7 +28,3 @@ I’m a data analyst with experience in Python, SQL, Power BI, and machine learn
 - GitHub: https://github.com/DhivyashreeR
 - Email: dhivya281001@gmal.comsolutions that solve real business problems.
 
-Contact
-LinkedIn: www.linkedin.com/in/dhivyashree-ravichandran-41690a1a9
-GitHub: https://github.com/DhivyashreeR
-Email: dhivya281001@gmal.com
